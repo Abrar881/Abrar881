@@ -1,20 +1,18 @@
 # Abrar Hossain
 
-I build production AI automation systems for real businesses — from multi-agent pipelines to full-stack delivery.
+I build AI automation systems for businesses, from multi-agent pipelines to full-stack tooling.
 
----
-
-**Technical Partner @ Blueprint4Business** · Previously **Founder @ Hosper Tech Solutions** (AI consultancy, 2025–2026)  
+**Technical Partner @ Blueprint4Business** · Previously **Founder @ Hosper Tech Solutions** (AI consultancy, 2025-2026)  
 Based in **London, UK** · Open to AI consultant / automation engineer roles
 
 ---
 
-### What I ship
+### What I build
 
-- **Multi-agent systems** — Google ADK + Vertex AI, hub-and-spoke architecture, 8 MCP servers automating real client workflows
-- **AI outreach pipelines** — scrape → enrich → AI-score → personalise → send, with GDPR-compliant sequencing
-- **Full-stack AI tools** — Next.js 15 + Supabase Realtime + TypeScript, from annotation platforms to lead gen dashboards
-- **Client delivery** — 3 SME clients served, 60% manual workload cut, systems running in production
+- **Multi-agent systems**: Google ADK + Vertex AI, hub-and-spoke architecture, 8 MCP servers handling real client workflows
+- **Outreach pipelines**: scrape, enrich, AI-score, personalise, send, built to GDPR spec
+- **Full-stack AI tools**: Next.js 15 + Supabase Realtime + TypeScript, annotation platforms to lead gen dashboards
+- **Client delivery**: 3 SME clients, 60% manual workload cut, all running in production
 
 ---
 
@@ -46,14 +44,14 @@ Based in **London, UK** · Open to AI consultant / automation engineer roles
 
 ---
 
-### Featured projects
+### Projects
 
 | Project | What it does |
 |---------|-------------|
-| [**adk-multi-agent-system**](https://github.com/Abrar881/adk-multi-agent-system) | Production Hub-and-Spoke MAS: dispatcher + 3 specialist agents, 8 MCP servers (Monday.com, Xero, Twilio, Gmail), deployed on Cloud Run |
-| [**ai-outreach-pipeline**](https://github.com/Abrar881/ai-outreach-pipeline) | B2B lead gen pipeline: Google Maps + Companies House scrapers → AI scoring → Claude-personalised 3-touch email sequence |
-| [**web-annotator**](https://github.com/Abrar881/web-annotator) | Visual feedback tool: pin annotations, draw on canvas, record voice notes on any webpage — Next.js 15 + Supabase Realtime |
-| [**website-audit-leadgen**](https://github.com/Abrar881/website-audit-leadgen) | Scrape local businesses → audit their websites (PageSpeed, broken links) → composite score → Next.js dashboard |
+| [**adk-multi-agent-system**](https://github.com/Abrar881/adk-multi-agent-system) | Hub-and-spoke MAS: dispatcher + 3 specialist agents, 8 MCP servers (Monday.com, Xero, Twilio, Gmail), deployed on Cloud Run |
+| [**ai-outreach-pipeline**](https://github.com/Abrar881/ai-outreach-pipeline) | B2B lead gen: Google Maps + Companies House scrapers, AI scoring, personalised 3-touch email sequences |
+| [**web-annotator**](https://github.com/Abrar881/web-annotator) | Visual feedback tool: pin annotations, draw on canvas, voice notes on any webpage, Next.js 15 + Supabase Realtime |
+| [**website-audit-leadgen**](https://github.com/Abrar881/website-audit-leadgen) | Scrapes local businesses, audits their sites (PageSpeed, broken links), scores by opportunity, Next.js dashboard |
 
 ---
 
